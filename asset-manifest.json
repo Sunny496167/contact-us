@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contact-us/static/css/main.cedb49f1.css",
+    "main.js": "/contact-us/static/js/main.aced526f.js",
+    "index.html": "/contact-us/index.html",
+    "main.cedb49f1.css.map": "/contact-us/static/css/main.cedb49f1.css.map",
+    "main.aced526f.js.map": "/contact-us/static/js/main.aced526f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cedb49f1.css",
+    "static/js/main.aced526f.js"
+  ]
+}
